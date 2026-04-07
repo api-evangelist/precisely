@@ -7,9 +7,9 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
+  - Address Verification
   - Data Integrity
   - Geocoding
-  - Address Verification
   - Location Intelligence
 url: >-
   https://raw.githubusercontent.com/api-evangelist/precisely/refs/heads/main/apis.yml
@@ -24,8 +24,8 @@ apis:
       property data, and location intelligence.
     humanURL: https://developer.precisely.com/
     tags:
-      - Geocoding
       - Address Verification
+      - Geocoding
       - Location Intelligence
     properties:
       - type: Documentation

@@ -1,40 +1,47 @@
 # Precisely (precisely)
+
 Precisely provides data integrity software and APIs for enriching, validating, and transforming data. Their APIs cover address verification, geocoding, demographics, risk assessment, and location intelligence.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/precisely/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+- **Type:** Index
+- **Position:** Consuming
+- **Access:** 3rd-Party
 
-## Tags:
+## Tags
 
- - Data Integrity, Geocoding, Address Verification, Location Intelligence
+- Address Verification
+- Data Integrity
+- Geocoding
+- Location Intelligence
 
 ## Timestamps
 
-- **Created:** 2026-03-16 
-- **Modified:** 2026-03-16 
+- **Created:** 2026-03-16
+- **Modified:** 2026-04-28
 
 ## APIs
 
 ### Precisely APIs
+
 A range of APIs for address verification, geocoding, demographics, property data, and location intelligence.
 
 **Human URL:** [https://developer.precisely.com/](https://developer.precisely.com/)
 
+#### Tags
 
-#### Tags:
-
- - Geocoding, Address Verification, Location Intelligence
+- Address Verification
+- Geocoding
+- Location Intelligence
 
 #### Properties
 
 - [Documentation](https://developer.precisely.com/apis/)
 - [Getting Started](https://developer.precisely.com/apis/)
 - [Authentication](https://developer.precisely.com/pricing)
+- [Repository](https://github.com/api-evangelist/precisely-apis)
 
 ## Common Properties
 

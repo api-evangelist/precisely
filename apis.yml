@@ -14,8 +14,10 @@ tags:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/precisely/refs/heads/main/apis.yml
 created: '2026-03-16'
-modified: '2026-03-16'
-specificationVersion: '0.19'
+modified: '2026-04-28'
+specificationVersion: '0.20'
+access: 3rd-Party
+position: Consuming
 apis:
   - aid: precisely:precisely-apis
     name: Precisely APIs
@@ -30,10 +32,12 @@ apis:
     properties:
       - type: Documentation
         url: https://developer.precisely.com/apis/
-      - type: Getting Started
+      - type: GettingStarted
         url: https://developer.precisely.com/apis/
       - type: Authentication
         url: https://developer.precisely.com/pricing
+      - type: Repository
+        url: https://github.com/api-evangelist/precisely-apis
 common:
   - type: Portal
     url: https://developer.precisely.com/
@@ -43,9 +47,9 @@ common:
     url: https://www.precisely.com/
   - type: Pricing
     url: https://developer.precisely.com/pricing
-  - type: Terms of Service
+  - type: TermsOfService
     url: https://www.precisely.com/legal/terms-of-use
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://www.precisely.com/legal/privacy-notices
   - type: Support
     url: https://support.precisely.com/

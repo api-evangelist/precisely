@@ -55,6 +55,14 @@ common:
     url: https://support.precisely.com/
   - type: Status
     url: https://status.precisely.com/
+  - type: Integrations
+    url: https://www.precisely.com/connectors
+integrations:
+  - name: Precisely
+  - name: 2026 LeBow Report
+  - name: Precisely Support
+  - name: Databricks
+  - name: Two business professionals having a meeting
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com

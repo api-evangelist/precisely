@@ -53,7 +53,7 @@ common:
     url: https://www.precisely.com/legal/privacy-notices
   - type: Support
     url: https://support.precisely.com/
-  - type: Status
+  - type: StatusPage
     url: https://status.precisely.com/
   - type: Integrations
     url: https://www.precisely.com/connectors

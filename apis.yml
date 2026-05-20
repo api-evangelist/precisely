@@ -39,6 +39,8 @@ apis:
       - type: Repository
         url: https://github.com/api-evangelist/precisely-apis
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/preciselydata
   - type: Portal
     url: https://developer.precisely.com/
   - type: Documentation

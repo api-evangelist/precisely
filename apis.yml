@@ -59,6 +59,8 @@ common:
     url: https://status.precisely.com/
   - type: Integrations
     url: https://www.precisely.com/connectors
+  - type: LLMsTxt
+    url: https://developer.precisely.com/llms.txt
 integrations:
   - name: Precisely
   - name: 2026 LeBow Report

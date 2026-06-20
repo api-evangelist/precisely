@@ -5,7 +5,7 @@ description: >-
   and transforming data. Their APIs cover address verification, geocoding,
   demographics, risk assessment, and location intelligence.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Address Verification
   - Data Integrity

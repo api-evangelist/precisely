@@ -59,7 +59,7 @@ common:
     url: https://status.precisely.com/
   - type: Integrations
     url: https://www.precisely.com/connectors
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://developer.precisely.com/llms.txt
 integrations:
   - name: Precisely

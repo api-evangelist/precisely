@@ -39,6 +39,10 @@ apis:
       - type: Repository
         url: https://github.com/api-evangelist/precisely-apis
 common:
+  - type: VulnerabilityDisclosure
+    url: security/precisely-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/precisely-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/preciselydata
   - type: Portal
@@ -61,6 +65,8 @@ common:
     url: https://www.precisely.com/connectors
   - type: LlmsText
     url: https://developer.precisely.com/llms.txt
+  - type: Blog
+    url: https://www.precisely.com/feed
 integrations:
   - name: Precisely
   - name: 2026 LeBow Report

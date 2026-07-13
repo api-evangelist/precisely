@@ -1,0 +1,21 @@
+{
+  "repo": "precisely",
+  "feeds": [
+    {
+      "source": "https://www.precisely.com/feed",
+      "feed_url": "https://www.precisely.com/feed",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://developer.precisely.com/llms.txt",
+      "feed_url": "https://developer.precisely.com/llms.txt",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 28
+}

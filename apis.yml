@@ -5,6 +5,18 @@ description: >-
   and transforming data. Their APIs cover address verification, geocoding,
   demographics, risk assessment, and location intelligence.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: unknown
+  commercial: true
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - pricing
+  - repository-unlicensed
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
@@ -51,6 +63,10 @@ apis:
       - type: Repository
         url: https://github.com/api-evangelist/precisely-apis
 common:
+  - type: IssueTracker
+    url: https://github.com/api-evangelist/precisely-apis/issues
+  - type: SecurityPolicy
+    url: https://github.com/api-evangelist/precisely-apis/tree/main/security
   - type: VulnerabilityDisclosure
     url: security/precisely-vulnerability-disclosure.yml
   - type: DomainSecurity
